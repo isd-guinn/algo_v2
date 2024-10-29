@@ -3,8 +3,8 @@
 
 import math
 import time
-#from . import mapping
-import mapping
+from . import mapping
+# import mapping
 
 # Create an instance of the Map class
 #map_instance = mapping.Map()
